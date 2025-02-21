@@ -52,4 +52,4 @@
 | EXPECTED RESULTS   | 1. message  "No products in stock"  was displayed<br/>2. example-product-001 quantity = 2                                                                                                                                                                                                                                                                                                                                                                                       |
 | COMMENTS           | none                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-### [Powrót do strony głównej](../README.md)
+### [Main Page](../README.md)

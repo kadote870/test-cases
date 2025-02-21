@@ -255,4 +255,4 @@
 | Steps           | 1. login into DB<br>Find user<br>3. Change date last password tested to X days backward<br>4. As a user try Login in to web app<br>                                                                       |
 | Expected Result | 1. System display password change proposal message<br>2. „Change password” button works and redirect correctly<br>3. „Remind in x days” button works correctly – user is redirect to main viev of web app |
 
-### [Powrót do strony głównej](../README.md)
+### [Main Page](../README.md)
